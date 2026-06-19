@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Monster Hunter Wilds
 
 モンスターハンターワイルズが好きなので作成しました。
@@ -17,4 +17,4 @@ title="Monster Hunter Wilds Trailer"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
-```
+
