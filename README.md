@@ -5,9 +5,9 @@ markdown
 
 ## Images
 
-![Monster Hunter Wilds Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg)
+![モンハン画像1](images%20(1).jpg)
 
-![Hunter Adventure](https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg)
+![モンハン画像2](item_0000000311_01.jpg)
 
 ## Youtube Video
 
@@ -15,6 +15,4 @@ markdown
 src="https://www.youtube.com/embed/zyoBA0aCRNk"
 title="Monster Hunter Wilds Trailer"
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
-
