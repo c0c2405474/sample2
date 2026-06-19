@@ -27,7 +27,7 @@ markdown
 
 ## Youtube Video
 
-![動画を見る](https://www.youtube.com/watch?v=9zf8aiRO9Cc)
+[動画を見る](https://www.youtube.com/watch?v=9zf8aiRO9Cc)
 ---
 # h1 Heading
 ## h2 Heading
