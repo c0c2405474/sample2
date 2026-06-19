@@ -27,7 +27,7 @@ markdown
 
 ## Youtube Video
 
-[動画を見る](https://www.youtube.com/watch?v=9zf8aiRO9Cc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zf8aiRO9Cc" title="Monster Hunter Wilds Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 ---
 # h1 Heading
 ## h2 Heading
