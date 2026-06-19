@@ -1,4 +1,5 @@
 markdown
+<style> body { background: lightcyan; width: 900px; margin: auto; } h1 { color: maroon; text-align: center; } h2 { color: darkgreen; } img { width: 400px; display: block; margin: 20px auto; border-radius: 15px; } p { color: gray; border: 1px solid gray; padding: 10px; } </style>
 # Monster Hunter Wilds
 
 モンスターハンターワイルズが好きなので作成しました。
